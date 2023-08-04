@@ -2,7 +2,7 @@
 
 
 
-# PGFNet implementation
+# SSL-Net implementation
 
 Pytorch implementation of SSL-Net
 
