@@ -18,7 +18,7 @@ If you need YFCC100M and SUN3D datasets, You can visit the code at https://githu
 If you find the SSL-Net code useful, please consider citing:
 
 ```bibtex
-@inproceedings{chen2024sslnet,
+@article{chen2024sslnet,
   author    = {Shunxing Chen, Guobao Xiao*, Ziwei Shi, Junwen Guo, Jiayi Ma},
   title     = {SSL-Net: Sparse semantic learning for identifying reliable correspondences},
   booktitle = {Pattern Recognition (PR)},
