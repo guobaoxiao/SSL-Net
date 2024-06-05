@@ -14,7 +14,7 @@ Please use Python 3.6, opencv-contrib-python (3.4.0.12) and Pytorch (>= 1.1.0). 
 
 If you need YFCC100M and SUN3D datasets, You can visit the code at https://github.com/zjhthu/OANet.git. We will upload the main code on 'core' folder. 
 
-# Citing BCLNet
+# Citing SSL-Net
 If you find the SSL-Net code useful, please consider citing:
 
 ```bibtex
